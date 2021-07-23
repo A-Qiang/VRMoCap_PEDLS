@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.fbmocap.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "D:\\zq\\project\\unity\\FBMocap\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "D:\\zq\\project\\git\\VRMoCap_PEDLS\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "FBMocap [Testing]"
